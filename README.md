@@ -51,4 +51,4 @@ cd server
 yarn start
 ```
 
-Done! Now open localhost:3000 in your browser.
+All Done! Now open localhost:3000 in your browser.
